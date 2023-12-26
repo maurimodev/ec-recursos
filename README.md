@@ -15,7 +15,7 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 <h4>Editores</h4>
 
 - [Audacity](https://www.audacityteam.org/) - Programa para grabar y editar sonidos.
-- [MuseScore]() - Programa para componer música a través de partituras.
+- [MuseScore](https://musescore.org/en) - Programa para componer música a través de partituras.
 - [beepbox.co](https://www.beepbox.co/) - Sitio para hacer instrumentales de música y compartirlos a través de URLs, bueno para sketches / jams.
 - [Beast](https://beast.testbit.eu/) - Programa de síntesis modular y para componer música.
 
