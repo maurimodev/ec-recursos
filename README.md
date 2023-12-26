@@ -1,6 +1,5 @@
 <h2 align="center">
     <img src="./assets/logoblue.png">
-    </a>
     resources_
 </h2>
 
