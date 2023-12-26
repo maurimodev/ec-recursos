@@ -72,7 +72,7 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 <h4>Diseño</h4>
 <h4>Programación</h4>
 
-## Eventos
+## Eventos / Convocatorias
 
 <h4>Presenciales</h4>
 <h4>En Línea</h4>
