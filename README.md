@@ -77,18 +77,24 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 <h4>General</h4>
 
 - [GDC en Youtube](https://www.youtube.com/@Gdconf) - Canal de YouTube con pláticas que se dieron en la Game Developers Conference. Un recurso muy bueno debido a que tiene pláticas de videojuegos AAA, AA e Indie, de toda disciplina.
+
 <h4>Audio</h4>
+
 <h4>Arte</h4>
 
 - [Gabriel Aguiar Prod.](https://www.youtube.com/@GabrielAguiarProd) - Canal de YouTube con varios tutoriales de VFX en Unity y Unreal Engine.
+  
 <h4>Diseño</h4>
 
 - [School of Game Design en Wikiversity](https://en.wikiversity.org/wiki/School:Game_design) - Recursos de aprendizaje para diseñadores de videojuegos.
+  
 <h4>Programación</h4>
 
 - [Learn OpenGL](https://learnopengl.com/) - Libro online para aprender OpenGL moderno.
-- [Pikuma*](https://pikuma.com/) - Cursos en línea de programación para videojuegos enfocados en conceptos de bajo nivel. (No es gratis)
+- [Pikuma*](https://pikuma.com/) - Cursos online de programación para videojuegos enfocados en conceptos de bajo nivel. (No es gratis)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Lista de libros y recursos de programación gratis en diversos lenguajes. 
+- [Enjoyable Game Architecture](https://chickensoft.games/blog/game-architecture/) - Un blog post sobre como hacer una arquitectura de juegos amena de utilizar, con un ejemplo en Godot.
+- [gamemath.com](https://gamemath.com/book/intro.html) - Libro online para aprender mátematicas 3D, enfocado a juegos.
 
 ## Trabajo
 
@@ -112,4 +118,5 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 
 ## Comunidades
 
+- [EnControl NL](https://discord.gg/E4hBYngQEv) - Comunidad en Discord para desarrolladores de videojuegos de Nuevo León, se hacen meetups presenciales también.
 - [INDI-ES](https://discord.gg/Z9eyP8A) - Comunidad en Discord de desarrolladores de videojuegos que hablen español.
