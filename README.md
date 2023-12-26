@@ -17,6 +17,9 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 - [MuseScore](https://musescore.org/en) - Programa para componer música a través de partituras.
 - [beepbox.co](https://www.beepbox.co/) - Sitio para hacer instrumentales de música y compartirlos a través de URLs, bueno para sketches / jams.
 - [Beast](https://beast.testbit.eu/) - Programa de síntesis modular y para componer música.
+- [LMMS](https://lmms.io/) - Programa open-source para producir música.
+- [Cakewalk](https://www.bandlab.com/products/cakewalk) - Programa gratis para producir música.
+- [REAPER](https://www.reaper.fm/) - Programa gratis para producir música, con varios efectos y plug-ins.
 
 <h4>Música y Sonidos</h4>
 
@@ -82,6 +85,9 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 - [Game Dev Links](https://docs.google.com/spreadsheets/d/1ingVlCEftStqau1KjGqm0P7M44YlY3G5H2rCD0aSXDY/edit#gid=63342903) - Base de datos de links varios referentes al game dev, desde assets, herramientas, listas de recursos, etc.
 
 <h4>Audio</h4>
+
+- [Jaime Altozano en Youtube](https://www.youtube.com/@JaimeAltozano) - Canal de YouTube dedicado a divulgar sobre música y teoría musical.
+- [Ludofonía en Youtube](https://www.youtube.com/@Ludofonia) - Canal de YouTube dedicado a divulgar sobre música de videojuegos y aprender de ella.
 
 <h4>Arte</h4>
 
