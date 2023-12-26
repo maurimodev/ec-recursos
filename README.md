@@ -26,6 +26,7 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 - [Incompetech](https://incompetech.com/music/royalty-free/) - Sitio de un artista que crea y pública música royalty free.
 - [SoundBible](https://soundbible.com/royalty-free-sounds-1.html) - Sitio con una colección de efectos de sonido gratis con diversas licencias, tienen una sección royalty free.
 - [Kenney](https://www.kenney.nl/) - Assets variados completamente gratis, incluyendo paquetes de audio.
+- [Canciones 48toplay](https://www.youtube.com/watch?v=bwgwWO9joDg&list=PLdZX-e4Oga5ZaeHOqhMf2M3AHbPTFQ2eB&index=4) - Canciones varias publicadas por 48toplay, libres de uso.
 
 ## Arte
 
@@ -46,6 +47,7 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 - [Chevy Ray's Pixel Font Megapack*](https://chevyray.itch.io/pixel-font-megapack) - Paquete de fuentes pixeleadas hechas por Chevy Ray. (No es gratis, contiene 140+ fonts)
 - [Google Fonts](https://www.google.com/fonts) - Colección de fuentes completamente gratis de Google.
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - Colección selectiva de fuentes completamente gratis.
+- [FontSquirrel](https://www.fontsquirrel.com/) - Colección de fuentes gratis licenciadas para trabajo comercial.
 - [Assets gratis en itch.io](https://itch.io/game-assets/free) - Diversos assets gráficos gratis, por distintos creadores. Checa bien las licencias y permisos establecidos.
 
 ## Programación
@@ -76,16 +78,20 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 <h4>General</h4>
 
 - [GDC en Youtube](https://www.youtube.com/@Gdconf) - Canal de YouTube con pláticas que se dieron en la Game Developers Conference. Un recurso muy bueno debido a que tiene pláticas de videojuegos AAA, AA e Indie, de toda disciplina.
+- [Publishers and Investors Database](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit#gid=2106158127) - Base de datos de investors y publishers de videojuegos.
+- [Game Dev Links](https://docs.google.com/spreadsheets/d/1ingVlCEftStqau1KjGqm0P7M44YlY3G5H2rCD0aSXDY/edit#gid=63342903) - Base de datos de links varios referentes al game dev, desde assets, herramientas, listas de recursos, etc.
 
 <h4>Audio</h4>
 
 <h4>Arte</h4>
 
 - [Gabriel Aguiar Prod.](https://www.youtube.com/@GabrielAguiarProd) - Canal de YouTube con varios tutoriales de VFX en Unity y Unreal Engine.
+- [The Textures Resource](https://www.textures-resource.com/) - Colección de modelos y texturas de videojuegos, buen recurso de aprendizaje.
   
 <h4>Diseño</h4>
 
 - [School of Game Design en Wikiversity](https://en.wikiversity.org/wiki/School:Game_design) - Recursos de aprendizaje para diseñadores de videojuegos.
+- [Creating a Game Design Board in Miro](https://www.youtube.com/watch?v=oW268g3XEwM) - Plática sobre crear game design boards.
   
 <h4>Programación</h4>
 
@@ -94,6 +100,12 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Lista de libros y recursos de programación gratis en diversos lenguajes. 
 - [Enjoyable Game Architecture](https://chickensoft.games/blog/game-architecture/) - Un blog post sobre como hacer una arquitectura de juegos amena de utilizar, con un ejemplo en Godot.
 - [gamemath.com](https://gamemath.com/book/intro.html) - Libro online para aprender mátematicas 3D, enfocado a juegos.
+- [ohshitgit.com](https://ohshitgit.com/) - Tutoriales para aprender a usar Git para el control de versiones.
+- [Missing Semester of your CS Education](https://missing.csail.mit.edu/) - Curso abierto del MIT dónde se abordan conceptos de desarrollo de software.
+- [The Book of Shaders](https://thebookofshaders.com/) - Libro online para aprender y entender los shaders.
+- [The C++ Tutorial](http://learncpp.com/) - Libro online que enseña C++, desde lo más básico a lo más díficil.
+- [PICO-8 Cheat Sheet](https://www.lexaloffle.com/bbs/?pid=74609) - Cheat sheet de PICO-8, una imagen con todas las funciones necesarias para usar el engine.
+- [Stephen Ulibarri en Udemy*](https://www.udemy.com/user/stephen-ulibarri-3/) - Cursos en línea de Unreal Engine. (No son gratis)
 
 ## Trabajo
 
@@ -107,6 +119,8 @@ Esta lista de recursos contiene aplicaciones, tutoriales, libros y otros recurso
 
 - [Pixelatl*](https://pixelatl.com/) - Festival presencial en Guadalajara enfocado al arte, animación y videojuegos. 
 - [Entertainment Gaming Show (EGS)*](https://www.egsmexico.com/) - Evento presencial en la Ciudad de México, enfocado a videojuegos. 
+- [48toplay](https://www.facebook.com/48toplay/) - Game jams en Nuevo León abiertos a toda persona.
+- [LADWEEK Tec*](https://www.instagram.com/ladweektec/) - Congreso de arte, animación y tecnología en el TEC de Monterrey. (No es gratis)
   
 <h4>En Línea</h4>
 
